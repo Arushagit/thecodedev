@@ -73,38 +73,38 @@ print(me.motto())
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript%20ES6+-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&amp;logo=bootstrap&amp;logoColor=white)
 
 **Backend**
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=django&amp;logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=flat-square&amp;logo=django&amp;logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&amp;logo=flask&amp;logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&amp;logo=fastapi&amp;logoColor=white)
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&amp;logo=mongodb&amp;logoColor=white)
 
-**Tools & DevOps**
+**Tools &amp; DevOps**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![venv](https://img.shields.io/badge/virtualenv-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&amp;logo=postman&amp;logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&amp;logo=jsonwebtokens&amp;logoColor=white)
+![venv](https://img.shields.io/badge/virtualenv-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
 
 ---
 
@@ -168,7 +168,7 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| 🛒 **Full Stack E-Commerce Platform** | React.js · DRF · MySQL · JWT | 10+ product categories · JWT securing **100%** of protected endpoints · **40% faster** API via SQL indexing · Full payment & order management |
+| 🛒 **Full Stack E-Commerce Platform** | React.js · DRF · MySQL · JWT | 10+ product categories · JWT securing **100%** of protected endpoints · **40% faster** API via SQL indexing · Full payment &amp; order management |
 | 🎓 **Student Management System** | Python · Django · MySQL · Bootstrap 5 | **200+ student** records · Role-based auth (admin/staff/student) · 5 normalized relational tables · **50% less** data entry time |
 | 🤖 **AI Admission Agent** | Node.js · Express · OpenAI API | WhatsApp chatbot for engineering college admissions · Conversational AI · Automated query handling |
 
@@ -182,7 +182,7 @@ print(me.motto())
 
 | 🏆 | Achievement | Details |
 |:--:|:------------|:--------|
-| 💻 | **Competitive Coding** | Solved **100+ problems** on LeetCode & HackerRank — arrays, strings, dynamic programming |
+| 💻 | **Competitive Coding** | Solved **100+ problems** on LeetCode &amp; HackerRank — arrays, strings, dynamic programming |
 | ⚡ | **Hackathons** | **2+ inter-college hackathons** — functional prototypes delivered within **24-hour** timelines |
 | 🌐 | **Developer Portfolio** | **5+ live full-stack projects** at [arushakanthshankar.netlify.app](https://arushakanthshankar.netlify.app) |
 | 🐍 | **Python Full Stack Cert** | Python Full Stack Development — NIIT / Coursera **(2025)** |
@@ -200,7 +200,7 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |:-------|:------------|:----:|:-----:|
-| 🎓 B.E. — Computer Science & Engineering | University College of Engineering, Trichy (BIT Campus) · Anna University | 2024 – 2027 | **8.0 / 10.0 CGPA** |
+| 🎓 B.E. — Computer Science &amp; Engineering | University College of Engineering, Trichy (BIT Campus) · Anna University | 2024 – 2027 | **8.0 / 10.0 CGPA** |
 | 📜 Diploma — Computer Engineering | Alagappa Polytechnic College, Karaikudi, Tamil Nadu | 2021 – 2023 | **93.4 / 100** |
 
 </div>
@@ -213,8 +213,8 @@ print(me.motto())
 🧱 Django REST Framework  →  ViewSets · Routers · Custom Serializers · Signals · Permissions
 ⚛️  React Ecosystem        →  Redux Toolkit · React Query · Context API · Code Splitting
 🗄️  Database Optimization  →  Advanced Indexing · Query Plans · Caching Strategies
-☁️  Cloud & Deployment     →  CI/CD Pipelines · Docker Basics · Environment Management
-🔐  Auth & Security        →  OAuth2 · JWT Refresh Flows · HTTPS Best Practices
+☁️  Cloud &amp; Deployment     →  CI/CD Pipelines · Docker Basics · Environment Management
+🔐  Auth &amp; Security        →  OAuth2 · JWT Refresh Flows · HTTPS Best Practices
 ```
 
 ---
