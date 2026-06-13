@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Arushakanth%20S&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Full%20Stack%20Developer%20%7C%20Python%20%26%20React%20%7C%20Building%20Scalable%20Products%20from%20Tamil%20Nadu&amp;descAlignY=62&amp;descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Arushakanth%20S&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Full%20Stack%20Developer%20%7C%20Python%20%26%20React%20%7C%20Building%20Scalable%20Products&amp;descAlignY=62&amp;descSize=16" width="100%"/>
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ class Arushakanth:
         return "Ship clean code. Learn every day. Build things that matter. 🚀"
 
 me = Arushakanth()
-print(me.motto())
+print(me.motto()
 ```
 
 <br clear="right"/>
