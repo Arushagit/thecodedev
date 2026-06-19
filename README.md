@@ -184,7 +184,7 @@ print(me.motto()
 |:--:|:------------|:--------|
 | 💻 | **Competitive Coding** | Solved **100+ problems** on LeetCode &amp; HackerRank — arrays, strings, dynamic programming |
 | ⚡ | **Hackathons** | **2+ inter-college hackathons** — functional prototypes delivered within **24-hour** timelines |
-| 🌐 | **Developer Portfolio** | **5+ live full-stack projects** at [arushakanthshankar.netlify.app](https://arushakanth.netlify.app) |
+| 🌐 | **Developer Portfolio** | **5+ live full-stack projects** at [arushakanth.netlify.app](https://arushakanth.netlify.app) |
 | 🐍 | **Python Full Stack Cert** | Python Full Stack Development — NIIT / Coursera **(2025)** |
 | 🌍 | **Web Developer Bootcamp** | The Complete Web Developer Bootcamp — Udemy **(2024)** |
 | ✅ | **HackerRank Badge** | Problem Solving **(Intermediate)** — HackerRank certified |
